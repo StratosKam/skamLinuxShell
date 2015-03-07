@@ -26,4 +26,4 @@ cd "new/dir/" to change directory.
 
 "command<file"
 
-(spaces can be recognised between the command and teh various symbols)
+(spaces can be recognised between the command and the various symbols)
