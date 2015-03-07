@@ -6,7 +6,7 @@ Tested in Arch.
 
 Usages:
 
-cd "direcotry" to change directory.
+cd "new/dir/" to change directory.
 
 "command"
 
