@@ -14,9 +14,9 @@ cd "direcotry" to change directory.
 
 "dir/to/command/command"
 
-"command1 || command2"
+"command1 | command2"
 
-"command1 || command2&"
+"command1 | command2&"
 
 "command1<file || command2>file"
 
